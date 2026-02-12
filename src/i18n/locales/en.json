@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "EduBridge",
+    "tagline": "Education for Everyone, Everywhere"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "done": "Done",
+    "continue": "Continue",
+    "download": "Download",
+    "downloaded": "Downloaded",
+    "offline": "Offline",
+    "online": "Online"
+  },
+  "navigation": {
+    "home": "Home",
+    "courses": "Courses",
+    "downloads": "Downloads",
+    "progress": "Progress",
+    "settings": "Settings"
+  },
+  "home": {
+    "welcome": "Welcome to EduBridge",
+    "subtitle": "Start learning today, even offline",
+    "featuredCourses": "Featured Courses",
+    "continueLearning": "Continue Learning",
+    "browseAll": "Browse All Courses",
+    "offlineMode": "You're offline. Only downloaded content is available."
+  },
+  "courses": {
+    "title": "All Courses",
+    "search": "Search courses...",
+    "filter": "Filter",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "hours": "{{count}} hours",
+    "lessons": "{{count}} lessons",
+    "enroll": "Enroll",
+    "enrolled": "Enrolled",
+    "startCourse": "Start Course",
+    "resume": "Resume"
+  },
+  "lesson": {
+    "nextLesson": "Next Lesson",
+    "previousLesson": "Previous Lesson",
+    "markComplete": "Mark Complete",
+    "completed": "Completed",
+    "downloadForOffline": "Download for Offline",
+    "deleteDownload": "Delete Download",
+    "videoQuality": "Video Quality",
+    "lowBandwidth": "Low Bandwidth Mode",
+    "highQuality": "High Quality",
+    "transcript": "Transcript",
+    "resources": "Resources"
+  },
+  "progress": {
+    "title": "Your Progress",
+    "coursesCompleted": "Courses Completed",
+    "hoursLearned": "Hours Learned",
+    "currentStreak": "Day Streak",
+    "achievements": "Achievements",
+    "continueWhere": "Continue where you left off"
+  },
+  "downloads": {
+    "title": "Downloaded Content",
+    "storage": "Storage Used",
+    "available": "Available",
+    "manageStorage": "Manage Storage",
+    "downloadCourse": "Download Entire Course",
+    "downloading": "Downloading...",
+    "pauseDownload": "Pause",
+    "resumeDownload": "Resume",
+    "deleteAll": "Delete All Downloads"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "downloadQuality": "Download Quality",
+    "autoDownload": "Auto-download on WiFi",
+    "notifications": "Notifications",
+    "darkMode": "Dark Mode",
+    "clearCache": "Clear Cache",
+    "about": "About EduBridge",
+    "version": "Version",
+    "logout": "Logout"
+  },
+  "auth": {
+    "welcome": "Welcome",
+    "continueAnonymously": "Continue as Guest",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "guestWarning": "As a guest, your progress is saved locally. Create an account to sync across devices."
+  },
+  "educator": {
+    "title": "Educator Dashboard",
+    "createCourse": "Create Course",
+    "myCourses": "My Courses",
+    "uploadVideo": "Upload Video",
+    "addLesson": "Add Lesson",
+    "publish": "Publish",
+    "unpublish": "Unpublish",
+    "analytics": "Analytics",
+    "students": "Students Enrolled"
+  }
+}

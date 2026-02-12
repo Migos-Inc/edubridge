@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "EduBridge",
+    "tagline": "Éducation pour Tous, Partout"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "retry": "Réessayer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "done": "Terminé",
+    "continue": "Continuer",
+    "download": "Télécharger",
+    "downloaded": "Téléchargé",
+    "offline": "Hors ligne",
+    "online": "En ligne"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "courses": "Cours",
+    "downloads": "Téléchargements",
+    "progress": "Progrès",
+    "settings": "Paramètres"
+  },
+  "home": {
+    "welcome": "Bienvenue sur EduBridge",
+    "subtitle": "Commencez à apprendre aujourd'hui, même hors ligne",
+    "featuredCourses": "Cours en Vedette",
+    "continueLearning": "Continuer l'Apprentissage",
+    "browseAll": "Parcourir Tous les Cours",
+    "offlineMode": "Vous êtes hors ligne. Seul le contenu téléchargé est disponible."
+  },
+  "courses": {
+    "title": "Tous les Cours",
+    "search": "Rechercher des cours...",
+    "filter": "Filtrer",
+    "beginner": "Débutant",
+    "intermediate": "Intermédiaire",
+    "advanced": "Avancé",
+    "hours": "{{count}} heures",
+    "lessons": "{{count}} leçons",
+    "enroll": "S'inscrire",
+    "enrolled": "Inscrit",
+    "startCourse": "Commencer le Cours",
+    "resume": "Reprendre"
+  },
+  "lesson": {
+    "nextLesson": "Leçon Suivante",
+    "previousLesson": "Leçon Précédente",
+    "markComplete": "Marquer comme Terminé",
+    "completed": "Terminé",
+    "downloadForOffline": "Télécharger pour Hors Ligne",
+    "deleteDownload": "Supprimer le Téléchargement",
+    "videoQuality": "Qualité Vidéo",
+    "lowBandwidth": "Mode Basse Bande Passante",
+    "highQuality": "Haute Qualité",
+    "transcript": "Transcription",
+    "resources": "Ressources"
+  },
+  "progress": {
+    "title": "Vos Progrès",
+    "coursesCompleted": "Cours Terminés",
+    "hoursLearned": "Heures d'Apprentissage",
+    "currentStreak": "Série de Jours",
+    "achievements": "Réalisations",
+    "continueWhere": "Continuez là où vous vous êtes arrêté"
+  },
+  "downloads": {
+    "title": "Contenu Téléchargé",
+    "storage": "Stockage Utilisé",
+    "available": "Disponible",
+    "manageStorage": "Gérer le Stockage",
+    "downloadCourse": "Télécharger le Cours Complet",
+    "downloading": "Téléchargement...",
+    "pauseDownload": "Pause",
+    "resumeDownload": "Reprendre",
+    "deleteAll": "Supprimer Tous les Téléchargements"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "selectLanguage": "Sélectionner la Langue",
+    "downloadQuality": "Qualité de Téléchargement",
+    "autoDownload": "Téléchargement automatique en WiFi",
+    "notifications": "Notifications",
+    "darkMode": "Mode Sombre",
+    "clearCache": "Vider le Cache",
+    "about": "À Propos d'EduBridge",
+    "version": "Version",
+    "logout": "Déconnexion"
+  },
+  "auth": {
+    "welcome": "Bienvenue",
+    "continueAnonymously": "Continuer en tant qu'Invité",
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de Passe",
+    "forgotPassword": "Mot de Passe Oublié?",
+    "noAccount": "Vous n'avez pas de compte?",
+    "haveAccount": "Vous avez déjà un compte?",
+    "guestWarning": "En tant qu'invité, vos progrès sont sauvegardés localement. Créez un compte pour synchroniser entre appareils."
+  },
+  "educator": {
+    "title": "Tableau de Bord Éducateur",
+    "createCourse": "Créer un Cours",
+    "myCourses": "Mes Cours",
+    "uploadVideo": "Télécharger une Vidéo",
+    "addLesson": "Ajouter une Leçon",
+    "publish": "Publier",
+    "unpublish": "Dépublier",
+    "analytics": "Analytiques",
+    "students": "Étudiants Inscrits"
+  }
+}

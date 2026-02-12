@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "EduBridge",
+    "tagline": "التعليم للجميع، في كل مكان"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "retry": "إعادة المحاولة",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "done": "تم",
+    "continue": "متابعة",
+    "download": "تحميل",
+    "downloaded": "تم التحميل",
+    "offline": "غير متصل",
+    "online": "متصل"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "downloads": "التحميلات",
+    "progress": "التقدم",
+    "settings": "الإعدادات"
+  },
+  "home": {
+    "welcome": "مرحباً بك في EduBridge",
+    "subtitle": "ابدأ التعلم اليوم، حتى بدون اتصال",
+    "featuredCourses": "الدورات المميزة",
+    "continueLearning": "متابعة التعلم",
+    "browseAll": "تصفح جميع الدورات",
+    "offlineMode": "أنت غير متصل. المحتوى المحمل فقط متاح."
+  },
+  "courses": {
+    "title": "جميع الدورات",
+    "search": "البحث عن دورات...",
+    "filter": "تصفية",
+    "beginner": "مبتدئ",
+    "intermediate": "متوسط",
+    "advanced": "متقدم",
+    "hours": "{{count}} ساعات",
+    "lessons": "{{count}} دروس",
+    "enroll": "التسجيل",
+    "enrolled": "مسجل",
+    "startCourse": "بدء الدورة",
+    "resume": "استئناف"
+  },
+  "lesson": {
+    "nextLesson": "الدرس التالي",
+    "previousLesson": "الدرس السابق",
+    "markComplete": "وضع علامة مكتمل",
+    "completed": "مكتمل",
+    "downloadForOffline": "تحميل للاستخدام بدون اتصال",
+    "deleteDownload": "حذف التحميل",
+    "videoQuality": "جودة الفيديو",
+    "lowBandwidth": "وضع النطاق الترددي المنخفض",
+    "highQuality": "جودة عالية",
+    "transcript": "النص",
+    "resources": "الموارد"
+  },
+  "progress": {
+    "title": "تقدمك",
+    "coursesCompleted": "الدورات المكتملة",
+    "hoursLearned": "ساعات التعلم",
+    "currentStreak": "سلسلة الأيام",
+    "achievements": "الإنجازات",
+    "continueWhere": "تابع من حيث توقفت"
+  },
+  "downloads": {
+    "title": "المحتوى المحمل",
+    "storage": "المساحة المستخدمة",
+    "available": "متاح",
+    "manageStorage": "إدارة المساحة",
+    "downloadCourse": "تحميل الدورة كاملة",
+    "downloading": "جاري التحميل...",
+    "pauseDownload": "إيقاف مؤقت",
+    "resumeDownload": "استئناف",
+    "deleteAll": "حذف جميع التحميلات"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "selectLanguage": "اختر اللغة",
+    "downloadQuality": "جودة التحميل",
+    "autoDownload": "التحميل التلقائي عبر WiFi",
+    "notifications": "الإشعارات",
+    "darkMode": "الوضع الداكن",
+    "clearCache": "مسح ذاكرة التخزين المؤقت",
+    "about": "حول EduBridge",
+    "version": "الإصدار",
+    "logout": "تسجيل الخروج"
+  },
+  "auth": {
+    "welcome": "مرحباً",
+    "continueAnonymously": "متابعة كضيف",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "لديك حساب بالفعل؟",
+    "guestWarning": "كضيف، يتم حفظ تقدمك محلياً. أنشئ حساباً للمزامنة عبر الأجهزة."
+  },
+  "educator": {
+    "title": "لوحة المعلم",
+    "createCourse": "إنشاء دورة",
+    "myCourses": "دوراتي",
+    "uploadVideo": "رفع فيديو",
+    "addLesson": "إضافة درس",
+    "publish": "نشر",
+    "unpublish": "إلغاء النشر",
+    "analytics": "التحليلات",
+    "students": "الطلاب المسجلين"
+  }
+}
