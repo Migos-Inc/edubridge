@@ -66,7 +66,7 @@ EduBridge is a mobile-first educational platform designed specifically for learn
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Close-House-Codes/edubridge.git
+   git clone https://github.com/Migos-Inc/edubridge.git
    cd edubridge
    ```
 
@@ -226,7 +226,7 @@ MIT License - see LICENSE file for details
 
 ## 📞 Contact
 
-Built with ❤️ by [Close House Codes](https://github.com/Close-House-Codes)
+Built with ❤️ by [Migos Inc](https://github.com/Migos-Inc)
 
 **Questions or want to help?**
 - Open an issue on GitHub
